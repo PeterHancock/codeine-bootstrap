@@ -1,0 +1,11 @@
+{
+  "name": "codeine-bootstrap",
+  "description": "A codeine template for Bootstrap",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": "Peter Hancock <peter.hancock@gmail.com> (https://peterhancock.github.io)",
+  "repository": {
+      "url": "git://github.com/PeterHancock/codeine-boostrap.git"
+  },
+  "main": "index.js"
+}
